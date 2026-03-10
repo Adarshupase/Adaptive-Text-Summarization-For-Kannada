@@ -1,3 +1,5 @@
+#from sentence_transformer import SentenceTransformer
+
 import torch
 import numpy as np
 import evaluate
